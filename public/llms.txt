@@ -1,0 +1,81 @@
+# testai — Generative Engine Optimization Map
+
+> A forward-thinking AI services business focused on delivering agentic AI solutions — autonomous, intelligent agents designed to handle complex tasks and workflows. The brand operates at the cutting edge of AI technology, positioning itself as a provider of next-generation automation and intelligent decision-making capabilities.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover testai&#39;s agentic AI solutions that automate complex tasks with intelligent, autonomous agents. Explore next-gen automation and decision-making—future-proof your business today.
+
+### Services
+https://example.com/services
+From orchestrated workflows to real-time decisions, our services deliver autonomous AI agents built for scale. See how testai transforms complexity into seamless execution—start now.
+
+### About
+https://example.com/about
+We&#39;re a team redefining what AI can do—pushing boundaries with agentic systems that learn, adapt, and act. Learn how testai builds the future of intelligent decision-making.
+
+### Contact
+https://example.com/contact
+Ready to integrate agentic AI that handles complex tasks on autopilot? Reach out to testai and let&#39;s design your custom autonomous solution—your automation edge awaits.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About testai
+A forward-thinking AI services business focused on delivering agentic AI solutions — autonomous, intelligent agents designed to handle complex tasks and workflows. The brand operates at the cutting edge of AI technology, positioning itself as a provider of next-generation automation and intelligent decision-making capabilities.
+
+## Services/Products
+- AI agentic services
+
+## Target Audience
+- Enterprise Tech Innovators
+- AI Startup Entrepreneurs
+- Digital Transformation Leaders
+
+## Industry
+Artificial Intelligence
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
